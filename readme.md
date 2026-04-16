@@ -17,8 +17,8 @@ Wiki content is licensed under [CC-BY-SA](https://www.fandom.com/licensing) unle
 8. `pip install missing_module`
 9. Go back to step 2 until it works
 10. Run ai.py
-11. Realise you either
-      a) forgot to run `ollama serve`, or
+11. Realise you either <br>
+      a) forgot to run `ollama serve`, or <br>
       b) closed the terminal window it was open in.
 12. Run `ollama serve`
 13. Run ai.py
