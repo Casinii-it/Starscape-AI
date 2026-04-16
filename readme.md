@@ -9,7 +9,7 @@ Wiki content is licensed under [CC-BY-SA](https://www.fandom.com/licensing) unle
 2. Run ai.py
 3. <sub>***pleaseworkpleaseworkpleasework***</sub>
 4. ModuleNotFoundError
-5. pip install missing module
+5. `pip install missing_module`
 6. Go back to step 2 until it works
 7. Wait 5 hours for it to train
 8. Ask it a question
