@@ -1,4 +1,4 @@
-Dumb as **** AI trained on the entirety of the Starscape Fandom wiki.
+Dumb as f*ck AI trained on the entirety of the Starscape Fandom wiki.
 
 FYI ai.py is vibe coded because I couldn't be bothered after dealing with the MediaWiki API.
 
