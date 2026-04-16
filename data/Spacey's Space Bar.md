@@ -1,0 +1,3 @@
+Spacey's Space Bar
+
+Spacey's Space Bar is a fictional location within Starscape, it appears on the ads hovering outside of commercial stations and seems to be accepted in every nation. There is currently no actual Spacey's Space Bar in the game, though many have suggested that it be added to the game for real. Advertising "The best burgers this side of the galaxy", it is speculated to be a burger joint. It is also a meme among the Starscape community.
