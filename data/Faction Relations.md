@@ -1,0 +1,3 @@
+Category:Factions
+
+NPC factions are groups of NPCs that give quests and rewards. Each has its own territory in the galaxy, though their fleets can appear in many places. CoreSec is a neutral faction, made to help players get started. Lycentia, Kavani, and Foralkus are all at war with each other, and give corvette and frigate blueprints as rewards, among other things. The Syndicate and the Trade Union are mercantile factions whose freighters appear in different parts of the galaxy and sell items. For more information, see Faction Relations.
