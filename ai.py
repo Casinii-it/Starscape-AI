@@ -48,7 +48,3 @@ query_engine = index.as_query_engine(
 while 1:
     response = query_engine.query(input("YOU:   "))
     print(f"AI:    {response}\n")
-    print("\n--- SOURCES ---")
-    for node in response.source_nodes:
-        print(node.text)
-        print("------")
