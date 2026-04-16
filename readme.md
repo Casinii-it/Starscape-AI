@@ -6,7 +6,7 @@ Thank you so much to all of the wiki's contributors, the level of commitment and
 
 Wiki content is licensed under [CC-BY-SA](https://www.fandom.com/licensing) unless otherwise stated.
 
-## How to use
+## A (non)comprehensive user guide
 1. Clone repo
 2. Install Ollama
 3. Install Llama3.2:3b
